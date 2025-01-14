@@ -59,5 +59,5 @@ export const routes: Routes = [
       title: 'Register Page'
     }
   },
-  { path: '**', redirectTo: 'login' }
+  { path: '**', redirectTo: 'register' }
 ];
