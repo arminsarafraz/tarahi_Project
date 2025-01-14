@@ -1,0 +1,12 @@
+D:\armin\back-end-source-code\AdminPanel\obj\Release\net8.0\PubTmp\Out\AdminPanel.exe
+D:\armin\back-end-source-code\AdminPanel\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\armin\back-end-source-code\AdminPanel\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\armin\back-end-source-code\AdminPanel\obj\Release\net8.0\PubTmp\Out\users.json
+D:\armin\back-end-source-code\AdminPanel\obj\Release\net8.0\PubTmp\Out\AdminPanel.dll
+D:\armin\back-end-source-code\AdminPanel\obj\Release\net8.0\PubTmp\Out\AdminPanel.deps.json
+D:\armin\back-end-source-code\AdminPanel\obj\Release\net8.0\PubTmp\Out\AdminPanel.runtimeconfig.json
+D:\armin\back-end-source-code\AdminPanel\obj\Release\net8.0\PubTmp\Out\AdminPanel.pdb
+D:\armin\back-end-source-code\AdminPanel\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\armin\back-end-source-code\AdminPanel\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\armin\back-end-source-code\AdminPanel\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\armin\back-end-source-code\AdminPanel\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
